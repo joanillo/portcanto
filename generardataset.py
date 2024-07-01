@@ -14,7 +14,7 @@ def generar_dataset(num, ind, dicc):
 
 	arguments:
 		num (int) -- número de ciclistes a generar
-		id (int) -- identificador del ciclista
+		ind (int) -- identificador del ciclista (dorsal)
 		dicc (dicc) -- diccionari amb els paràmetres per calcular els temps
 
 	Returns:
@@ -30,7 +30,7 @@ def generar_dataset(num, ind, dicc):
 
 if __name__ == "__main__":
 
-	str_ciclistes = 'data/ciclistes.txt'
+	str_ciclistes = 'data/ciclistes.csv'
 
 	try:
 		os.makedirs(os.path.dirname(str_ciclistes))
@@ -74,7 +74,7 @@ if __name__ == "__main__":
 	#ciclistes = sorted(ciclistes, key=lambda row: row[1] + row[2])
 	ciclistes = sorted(ciclistes, key=lambda row: row[3])
 
-	foutput = open("data/ciclistes.csv", "w")
+	foutput = open(str_ciclistes, "w")
 
 	foutput.write("id;tp;tb;tt;tipus\n") # id, temps pujada, temps baixada
 	for registre in ciclistes:
