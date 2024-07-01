@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joan/portcanto/mlruns/610038021807066409/97df0c43d78641519afedcb34209c347/artifacts
+end_time: 1719857261066
+entry_point_name: ''
+experiment_id: '610038021807066409'
+lifecycle_stage: active
+run_id: 97df0c43d78641519afedcb34209c347
+run_name: illustrious-crow-297
+run_uuid: 97df0c43d78641519afedcb34209c347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719857261038
+status: 3
+tags: []
+user_id: joan

@@ -1,0 +1,8 @@
+artifact_location: file:///home/joan/portcanto/mlruns/319193055721247267
+creation_time: 1719855010599
+experiment_id: '319193055721247267'
+last_update_time: 1719855021368
+lifecycle_stage: deleted
+name: K sklearn simparking
+tags:
+  mlflow.note.content: simparking variació de paràmetre K

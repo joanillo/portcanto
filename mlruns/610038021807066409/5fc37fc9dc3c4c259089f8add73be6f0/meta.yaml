@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joan/portcanto/mlruns/610038021807066409/5fc37fc9dc3c4c259089f8add73be6f0/artifacts
+end_time: 1719857261034
+entry_point_name: ''
+experiment_id: '610038021807066409'
+lifecycle_stage: active
+run_id: 5fc37fc9dc3c4c259089f8add73be6f0
+run_name: useful-kite-56
+run_uuid: 5fc37fc9dc3c4c259089f8add73be6f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719857261000
+status: 3
+tags: []
+user_id: joan

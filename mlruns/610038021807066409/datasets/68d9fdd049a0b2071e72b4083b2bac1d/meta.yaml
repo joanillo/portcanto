@@ -1,0 +1,8 @@
+digest: 6adeb7b8
+name: dataset
+profile: '{"num_rows": 400, "num_elements": 2000}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "id"}, {"type": "long", "name":
+  "tp"}, {"type": "long", "name": "tb"}, {"type": "long", "name": "tt"}, {"type":
+  "string", "name": "tipus"}]}'
+source: '{"uri": "./data/ciclistes.csv"}'
+source_type: local

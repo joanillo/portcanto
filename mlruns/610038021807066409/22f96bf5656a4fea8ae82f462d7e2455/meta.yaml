@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joan/portcanto/mlruns/610038021807066409/22f96bf5656a4fea8ae82f462d7e2455/artifacts
+end_time: 1719857260995
+entry_point_name: ''
+experiment_id: '610038021807066409'
+lifecycle_stage: active
+run_id: 22f96bf5656a4fea8ae82f462d7e2455
+run_name: bouncy-ox-197
+run_uuid: 22f96bf5656a4fea8ae82f462d7e2455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719857260966
+status: 3
+tags: []
+user_id: joan

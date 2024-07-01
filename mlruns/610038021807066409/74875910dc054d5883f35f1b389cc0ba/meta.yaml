@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joan/portcanto/mlruns/610038021807066409/74875910dc054d5883f35f1b389cc0ba/artifacts
+end_time: 1719857260904
+entry_point_name: ''
+experiment_id: '610038021807066409'
+lifecycle_stage: active
+run_id: 74875910dc054d5883f35f1b389cc0ba
+run_name: angry-sloth-741
+run_uuid: 74875910dc054d5883f35f1b389cc0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719857260883
+status: 3
+tags: []
+user_id: joan

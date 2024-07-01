@@ -1,0 +1,9 @@
+imutils==0.5.4
+numpy==1.24.4
+packaging==23.2
+pandas
+matplotlib
+seaborn
+scikit-learn
+mlflow
+pickle

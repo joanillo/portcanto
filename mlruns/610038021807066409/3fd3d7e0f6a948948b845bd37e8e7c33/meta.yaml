@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joan/portcanto/mlruns/610038021807066409/3fd3d7e0f6a948948b845bd37e8e7c33/artifacts
+end_time: 1719857260962
+entry_point_name: ''
+experiment_id: '610038021807066409'
+lifecycle_stage: active
+run_id: 3fd3d7e0f6a948948b845bd37e8e7c33
+run_name: indecisive-hawk-723
+run_uuid: 3fd3d7e0f6a948948b845bd37e8e7c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719857260934
+status: 3
+tags: []
+user_id: joan
